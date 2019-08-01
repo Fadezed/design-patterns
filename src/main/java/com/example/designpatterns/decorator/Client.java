@@ -4,7 +4,7 @@ package com.example.designpatterns.decorator;
  * 描述:
  * 场景类
  *
- * @author fadezed
+ * @author zed
  * @since 2019-08-01 10:52
  */
 public class Client {
