@@ -2,7 +2,7 @@ package com.example.designpatterns.decorator;
 
 /**
  * 描述:
- * 床凉装饰类
+ * 窗帘装饰类
  *
  * @author fadezed
  * @since 2019-08-01 10:51
